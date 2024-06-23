@@ -1,4 +1,4 @@
 # gitdemo
 This is my first git repository.
 <br>
-Author - Mohammed Sohail
+Author - Mohammed Sohail (MS)
